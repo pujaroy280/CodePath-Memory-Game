@@ -1,4 +1,6 @@
 # CodePath Memory Game
+![CodePath Memory Game](https://user-images.githubusercontent.com/62675121/134797950-e3f63af2-0d72-4e50-9d3f-8bb668e01515.PNG)
+
 
 Pre-work - Memory Game
 Hello Echo is a Light & Sound Memory game to apply for CodePath's SITE Program.
