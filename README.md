@@ -20,7 +20,7 @@ The following required functionality is complete:
 - User wins the game after guessing a complete pattern
 - User loses the game after an incorrect guess
 
-# The following optional features are implemented:
+The following optional features are implemented:
 
 - Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 - Buttons use a pitch (frequency) other than the ones in the tutorial
